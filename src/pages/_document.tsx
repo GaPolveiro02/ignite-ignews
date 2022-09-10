@@ -1,4 +1,4 @@
-import Document, { Head, Html, Main, NextScript } from "../node_modules/next/document";
+import Document, { Head, Html, Main, NextScript } from "../../node_modules/next/document";
 
 export default class myDocument extends Document {
     render () {
