@@ -5,7 +5,7 @@ import { FiX } from "../../../node_modules/react-icons/fi/index";
 import styles from './styles.module.scss'
 
 export function SignInButton() {
-    const isUserLoggedIn = true;
+    const isUserLoggedIn = false;
 
     return isUserLoggedIn ? (
         <button 
